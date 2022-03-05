@@ -1,8 +1,10 @@
-### Oi, eu sou o Leo 😻
+### <div align="center"> Oi, eu sou o Léo =)</div>
 
-- 🏳️‍🌈 Meus pronomes são: Ele/Dele
-- 👨🏾‍💻 Atualemtne sou graduando em Ciências das Computação.
-- 🐍 Minha casa de Hogwats é a Sonserina
+<div align="center">
+  🏳️‍🌈 Meus pronomes são ele/dele <br>
+  👨🏾‍💻 Atualmente sou graduando em Ciências das Computação.<br>
+  🐍 Minha casa de Hogwats é a Sonserina
+</div>
 
 <br>  
 <div align="center">
@@ -18,4 +20,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiLeomoreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
-![Snake animation](https://github.com/HiLeomoreira/HiLeomoreira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
