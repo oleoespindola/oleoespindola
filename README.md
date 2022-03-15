@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/le-moreira/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="30px" target="_blank" ></a>
   <a href="https://instagram.com/oi.leomoreira" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" height="30px" target="_blank"></a>
-  <a href = "mailto:leonardo.espindola.moreira@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/906/906312.png" height="30px" target="_blank"></a>
+  <a href = "mailto:leonardo.espindola.moreira@gmail.com" target="_black"><img src="https://cdn-icons-png.flaticon.com/512/906/906312.png" height="30px" target="_blank"></a>
 </div>
 
 <br>  
