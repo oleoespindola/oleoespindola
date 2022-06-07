@@ -3,9 +3,9 @@
 ### <div align="center">Oi, eu sou o Léo =)</div>
 
 <div align="center">
-  🏳️‍🌈 Meus pronomes são ele/dele <br>
-  👨🏾‍💻 Atualmente sou graduando em Ciências das Computação.<br>
-  🐍 Minha casa de Hogwats é a Sonserina
+  🏳️‍🌈 Ele/dele <br>
+  👨🏾‍💻 Graduando em Ciências das Computação.<br>
+  🐍 Sonserina
 </div>
 
 <br>  
