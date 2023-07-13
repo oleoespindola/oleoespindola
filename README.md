@@ -1,5 +1,3 @@
-<div align ="center"><img src="avatar.svg" alt="avatar" height="250px"></div>
-
 ### <div align="center">Oi, eu sou o Léo =)</div>
 
 <div align="center">
