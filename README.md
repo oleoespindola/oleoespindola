@@ -13,11 +13,4 @@
   <a href="mailto:leonardo.espindola.moreira@gmail.com" target="_black"><img src="https://cdn-icons-png.flaticon.com/512/906/906312.png" height="30px" target="_blank"></a>
 </div>
 
-<br>  
-<div align="center">
-  <a href="https://github.com/oleoespindola">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oleoespindola&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleoespindola&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-  ![Snake animation](https://github.com/oleoespindola/oleoespindola/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleoespindola&hide_progress=false&theme=dark)
