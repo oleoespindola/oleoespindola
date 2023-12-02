@@ -1,40 +1,29 @@
-### <div align="center">Oi, eu sou o Léo =)</div>
+# Oi, eu sou o Léo =)
+💼 Um entusiasta apaixonado por tecnologia, especializado em Business Intelligence e Data Analysis. 
 
-<!-- BIO -->
-<div align="center">
-  
-<p>🏳️‍🌈 Ele/dele</p>
-<p>👨🏾‍💻 Graduando em Ciências das Computação</p>
+🏳️‍🌈 Ele/dele
 
-<p>
-Sou um profissional apaixonado por tecnologia, com experiência em Business Intelligence e Data Analytics. 
+👨🏾‍💻 Graduando em Ciências das Computação
 
-Estou desenvolvendo minhas habilidades em linguagens de programação como Python, SQL, Java e JavaScript, além de desenvolvimento web. Compreendo a importância de uma boa gestão de dados e utilizo Git para controle de versionamento de código. 
+## Sobre Mim 👨‍💻
 
-Estou sempre em busca de novos desafios e de aprimorar minhas habilidades técnicas para oferecer soluções eficazes para empresas e organizações.
-</p>
+### Experiência Profissional 🚀
 
-</div>
+Tenho uma sólida experiência no uso de Python para automação e tratamento de dados, além de habilidades avançadas em gerenciamento e manipulação de bancos de dados, com destaque para o PostgreSQL. 🐍🔍
 
-<!-- Liks de contatos -->
-<div align="center">
-  
-<a href="https://www.linkedin.com/in/oleoespindola/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="30px" target="_blank" ></a>
-<a href="https://instagram.com/oleoespindola" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" height="30px" target="_blank"></a>
-<a href="mailto:leonardo.espindola.moreira@gmail.com" target="_black"><img src="https://cdn-icons-png.flaticon.com/512/906/906312.png" height="30px" target="_blank"></a>
+Além disso, sou especialista na construção de dashboards no Power BI, onde realizo análises profundas de market share, benchmark, taxa de resolução, eficiência e faturamento. Possuo conhecimento avançado em Power BI Embedded com Python, proporcionando soluções dinâmicas e interativas. 📊💡
 
-</div>
+### Conhecimentos Técnicos 🛠️
 
-<!-- Linguagens mais utilizadas -->
-<div align="center">
+Não apenas limitado ao universo Python, também possuo habilidades sólidas em Java e JavaScript, ampliando minha capacidade de entrega e versatilidade. ☕🚀
 
-<a href="https://github.com/oleoespindola/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=oleoespindola&hide=stars,issues,prs&theme=dark&show_icons=true&include_all_commits=true&rank_icon=percentile" />
-</a>
+### Busca Constante por Desafios 🌟
 
-<br><br>
-<a href="https://github.com/oleoespindola/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleoespindola&hide_progress=false&theme=dark" />
-</a>
+Estou sempre em busca de novos desafios, ansioso por oportunidades que me permitam aprimorar minhas habilidades técnicas e oferecer soluções eficazes para empresas e organizações. Se você tem um desafio interessante, estou pronto para contribuir! 💪
 
-</div>
+### Contato 📫
+
+Vamos conversar? Fique à vontade para entrar em contato e explorar possíveis colaborações e desafios! 📧👋
+
+<a href="https://www.linkedin.com/in/oleoespindola/" target="_blank" alt="LinkedIn"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="30px" target="_blank"></a>
+<a href="https://instagram.com/oleoespindola" target="_blank" alt="Instagram"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" height="30px" target="_blank"></a>
