@@ -2,7 +2,7 @@
   <img height="150" src="https://sdk.bitmoji.com/render/panel/20084243-104236784516_1-s5-v1.png?transparent=1&palette=1&scale=2"  />
 </div>
 
-###
+<br />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/oleoespindola/" target="_blank">
@@ -16,7 +16,7 @@
   </a>
 </div>
 
-###
+<br />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=oleoespindola.oleoespindola&"  />
@@ -33,11 +33,9 @@
 
 📍 Bauru, SP — mas trabalho pro Brasil inteiro, **remoto ou híbrido**.
 
-###
+<br />
 
 ## 💻 Tech Stack
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -48,18 +46,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-###
+
 
 ## 🔥 My Stats
 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=oleoespindola&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+
 
 <img src="https://raw.githubusercontent.com/oleoespindola/oleoespindola/output/snake.svg" alt="Snake animation" />
 
-###
+
