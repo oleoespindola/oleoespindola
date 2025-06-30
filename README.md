@@ -22,53 +22,35 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=oleoespindola.oleoespindola&"  />
 </div>
 
-###
 
-<h1 align="center">👋🏿 Oi, eu sou o Leo!</h1>
+# 👋🏿 Oi, eu sou o Leo!
 
-###
+### Analista de BI a Desenvolvedor Full Stack
 
-<h3 align="left">🚀 De Analista de BI a Desenvolvedor Full Stack 🚀</h3>
+🚀 Gosto de resolver problemas reais, integrar sistemas com **APIs REST**, automatizar processos com **Python**.
 
-###
+💡 Aqui no GitHub eu compartilho meus projetos, estudos e experiências enquanto finalizo meu Bacharelado em **Ciência da Computação**.
 
-<p align="left">Minha jornada na tecnologia começou com dados e BI, mas evoluiu para o desenvolvimento full stack. Hoje, combino análise de dados com engenharia de software para criar aplicações eficientes e escaláveis.<br><br>🎓 Além de atuar como desenvolvedor full stack, sou estudante do último ano de Ciência da Computação e já conduzi pesquisas em segurança para dispositivos móveis. Sempre busco aprender novas tecnologias e aprimorar minhas habilidades para entregar soluções inovadoras e de alto impacto.</p>
-
-###
-
-<h3 align="left">💻 Tech Stack:</h3>
+📍 Bauru, SP — mas trabalho pro Brasil inteiro, **remoto ou híbrido**.
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+## 💻 Tech Stack
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/django/092E20" height="30" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="30" alt="Typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 ###
 
-<p align="left">✔️ Principais: Git, Python, Django, MySQL, HTML, CSS, Power BI, Excel<br>✔️ Em desenvolvimento: Flutter, React, Inglês</p>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
+## 🔥 My Stats
 
 ###
 
