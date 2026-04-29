@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://sdk.bitmoji.com/render/panel/20084243-104236784516_1-s5-v1.png?transparent=1&palette=1&scale=2" height="150" width="150" />
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczN6L_9WvAzElh1HEtyb0AYg5t7dV7pyVKIKaxrPSG_-xzhJt5b0ToJVuQwKu6VlPgM17HOGr0Opd0u1aeggpC0_eQsqYw3xNe52L9tnLDUKjQaglz5-xnVd47lfmV6U32sZJCipGa1g2o28p8cZMIjgKQ=w1283-h1027-s-no?authuser=0" height="250" />
 </div>
 
 <br />
