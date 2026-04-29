@@ -27,30 +27,22 @@
 
 ### Analista de BI a Desenvolvedor Full Stack
 
-🚀 Gosto de resolver problemas reais, integrar sistemas com **APIs REST**, automatizar processos com **Python**.
+👨🏾‍🎓 Bacharel em **Ciência da Computação**
 
-💡 Aqui no GitHub eu compartilho meus projetos, estudos e experiências enquanto finalizo meu Bacharelado em **Ciência da Computação**.
+💡 Aqui no GitHub eu compartilho meus projetos, estudos e experiências.
 
-📍 Bauru, SP — mas trabalho pro Brasil inteiro, **remoto ou híbrido**.
+📍 Bauru, SP.
 
 <br />
 
 ## 💻 Tech Stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python logo"  />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="30" width="30" alt="django logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="30" width="30" alt="Typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" alt="git logo"  />
-</div>
-
-
+![python](https://img.shields.io/badge/python-gray?logo=python&style=for-the-badge)
+![react](https://img.shields.io/badge/react-gray?logo=react&style=for-the-badge)
+![node.js](https://img.shields.io/badge/node.js-gray?logo=node.js&style=for-the-badge)
+![postgresql](https://img.shields.io/badge/postgresql-gray?logo=postgresql&style=for-the-badge)
 
 ## 🔥 My Stats
-
-
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=oleoespindola&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
