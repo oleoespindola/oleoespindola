@@ -25,7 +25,7 @@
 
 # 👋🏿 Oi, eu sou o Leo!
 
-### Analista de BI a Desenvolvedor Full Stack
+### Desenvolvedor Full Stack
 
 👨🏾‍🎓 Bacharel em **Ciência da Computação**
 
