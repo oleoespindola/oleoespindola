@@ -44,10 +44,10 @@
 
 ## 🔥 My Stats
 
-<img src="https://raw.githubusercontent.com/oleoespindola/oleoespindola/output/snake.svg" alt="Snake animation" />
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=oleoespindola&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="220" alt=""/>
+  <img src="https://streak-stats.demolab.com?user=oleoespindola&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&border=3" height="220" alt=""/>
 </div>
+
+<img src="https://raw.githubusercontent.com/oleoespindola/oleoespindola/output/snake.svg" alt="Snake animation" />
 
 
