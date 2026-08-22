@@ -38,17 +38,9 @@
 ## 💻 Tech Stack
 
 ![python](https://img.shields.io/badge/python-gray?logo=python&style=for-the-badge)
-![react](https://img.shields.io/badge/react-gray?logo=react&style=for-the-badge)
-![node.js](https://img.shields.io/badge/node.js-gray?logo=node.js&style=for-the-badge)
-![postgresql](https://img.shields.io/badge/postgresql-gray?logo=postgresql&style=for-the-badge)
 
 ## 🔥 My Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=oleoespindola&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="220"/>
-</div>
+![My Stats](https://streak-stats.demolab.com?user=oleoespindola&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3)
 
-<img src="https://raw.githubusercontent.com/oleoespindola/oleoespindola/output/snake.svg" alt="Snake animation" />
-
-
-
+![Snake animation](https://raw.githubusercontent.com/oleoespindola/oleoespindola/output/snake.svg)
